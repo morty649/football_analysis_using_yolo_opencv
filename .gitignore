@@ -2,7 +2,7 @@
 venv/
 yolov8n.pt
 # Ignore model weights and logs
-
+*.pt
 runs/
 __pycache__/
 
