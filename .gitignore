@@ -1,10 +1,9 @@
 # Ignore virtual environment
 venv/
-
+yolov8n.pt
 # Ignore model weights and logs
-*.pt
+
 runs/
-output_videos/
 __pycache__/
 
 # OS + IDE files
