@@ -89,7 +89,7 @@ Ultralytics YOLOv8: https://github.com/ultralytics/ultralytics
 
 OpenCV Documentation: https://docs.opencv.org/
 
-https://youtu.be/neBZ6huolkg?si=YTIYQdzDEnZTzeCG
+Youtube - code in a jiffy - https://youtu.be/neBZ6huolkg?si=YTIYQdzDEnZTzeCG
 
 Feedback & Contributions
 Feedback, improvements, or collaborations are welcome. Please feel free to open an issue or reach out.
